@@ -1,4 +1,3 @@
-```markdown
 # FastAPI Scraper Tool
 
 This is an advanced web scraping tool built with FastAPI that allows you to scrape product information from a target website.
@@ -68,4 +67,3 @@ For large datasets, consider using the database instead of `JsonFileStorage`. Yo
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-```
