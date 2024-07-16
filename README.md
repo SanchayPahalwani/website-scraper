@@ -48,6 +48,8 @@ This is an advanced web scraping tool built with FastAPI that allows you to scra
    Authorization: Bearer SuperSecretStaticToken
    ```
 
+3. By default, the JSON output will be saved in `products.json` and the scraped images will be stored in the `product_images` directory.
+
 ## API docs
 
 `http://localhost:8000/docs`
